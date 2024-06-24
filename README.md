@@ -13,7 +13,7 @@
   <tr>
     <td>
       <a href="https://github.com/namkikim0718">
-        <img src="https://github.com/Coco-Das/PRIER-BE/assets/108293826/b6b478bd-ac2d-4917-8241-2d7ac49eee2e" width="150" style="max-width: 100%;">
+        <img src="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/assets/113903598/7888a0d4-9913-40f9-a282-6ea3977af1b2" width="150" style="max-width: 100%;">
       </a>
     </td>
     <td>
