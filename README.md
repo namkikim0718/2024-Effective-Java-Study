@@ -22,7 +22,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/_.mung">
+      <a href="https://github.com/M-ung">
         <img src="https://github.com/Coco-Das/PRIER-BE/assets/108293826/b6b478bd-ac2d-4917-8241-2d7ac49eee2e" width="150" style="max-width: 100%;">
       </a>
     </td>
@@ -40,7 +40,7 @@
       <a href="https://github.com/kimseonhee126">선희</a>
     </td>
     <td align="center">
-      <a href="https://github.com/_.mung">정목</a>
+      <a href="https://github.com/M-ung">정목</a>
     </td>
     <td align="center">
       <a href="https://github.com/supportlaver">지원</a>
