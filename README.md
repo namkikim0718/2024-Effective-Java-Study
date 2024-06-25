@@ -23,7 +23,7 @@
     </td>
     <td>
       <a href="https://github.com/M-ung">
-        <img src="[https://github.com/Coco-Das/PRIER-BE/assets/108293826/b6b478bd-ac2d-4917-8241-2d7ac49eee2e](https://avatars.githubusercontent.com/u/126846468?v=4)" width="150" style="max-width: 100%;">
+        <img src="https://avatars.githubusercontent.com/u/126846468?v=4" width="150" style="max-width: 100%;">
       </a>
     </td>
     <td>
