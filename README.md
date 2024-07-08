@@ -60,7 +60,7 @@
 
 ## 아이템
 ### 2장
-<table>
+<table align="center">
 <tr><th> 🧩 아이템 </th><th> 📚 주제 </th><th> 🔖 작성자의 글 </th></tr>
 <tr><td> 1 </td><td> 생성자 대신 정적 팩터리 메서드를 고려하라 </td><td> <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_1/생성자_대신_정적_팩터리_메서드를_고려하라_(김남기).md">남기</a>, <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_1/생성자_대신_정적_팩터리_메서드를_고려하라_(김선희).md">선희</a>, <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_1/생성자_대신_정적_팩터리_메서드를_고려하라_(김정목).md">정목</a>, <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_1/생성자_대신_정적_팩터리_메서드를_고려하라(김지원).md">지원</a> </td></tr>
 <tr><td> 2 </td><td> 생성자에 매개변수가 많다면 빌더를 고려하라 </td><td><a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_2/생성자애_매개변수가_많다면_빌더를_고려하라_(김남기).md">남기</a>, <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_2/생성자애_매개변수가_많다면_빌더를_고려하라_(김선희).md">선희</a>, <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_2/생성자애_매개변수가_많다면_빌더를_고려하라_(김정목).md">정목</a>, <a href="https://github.com/2024-Effective-Java/2024-Effective-Java-Study/blob/main/2장/아이템_2/생성자애_매개변수가_많다면_빌더를_고려하라_(김지원).md">지원</a> </td></tr>
