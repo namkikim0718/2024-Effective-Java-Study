@@ -37,7 +37,7 @@ static void copy(String src, String dst) throws IOException {
 }
 ```
 
-## 📌 try-with-resources는 자원을 회수하는 최석책이다.
+## 📌 try-with-resources는 자원을 회수하는 최선책이다.
 ```java
 static String firstLineOfFile(String path) throws IOException {
     try (BufferedReader br = new BufferedReader(new FileReader(path))) {
@@ -48,6 +48,7 @@ static String firstLineOfFile(String path) throws IOException {
 <br>
 
 ## 📌 try-with-resources는 복수의 자원을 처리하는 짧고 매혹적이다.
+try-with-resources는 짧고 읽기 수월할 뿐 아니라 문제를 진단하기도 훨씬 좋다. 
 ```java
 static void copy(String src, String dst) throws IOException {
     try (InputStream in = new FileInputStream(src);OutputStream out = new FileOutputStream(dst)) {
@@ -58,7 +59,7 @@ static void copy(String src, String dst) throws IOException {
 }
 ```
 
-여기서 catch 절도 함께 쓰면 좋다.
+보통 try-finally 처럼 try-with-resources에서도 catch절을 쓸 수 있다. catch절을 넣으면 try문을 더 중첩하지 않고도 다수의 예외를 처리할 수 있다.
 
 <br>
 
@@ -72,3 +73,6 @@ static String firstLineOfFile(String path, String defaultValue) {
     }
 }
 ```
+
+## ⭐️ 핵심 정리
+꼭 회수해야 하는 자원을 다룰 때는 try-finally 말고, try-with-resources를 사용하는 것이 좋다. 예외는 없다. 코드는 더 짧고 분명해지고, 만들어지는 예외 정보도 훨씬 유용하다. try-finally로 작성하면 실용적이지 못할 만큼 코드가 지저분해지는 경우라도, try-with-resources로는 정확하고 쉽게 자원을 회수할 수 있다.
